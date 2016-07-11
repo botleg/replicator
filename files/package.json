@@ -1,0 +1,16 @@
+{
+	"name": "replicator",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hanzeljesheen/replicator.git"
+	},
+	"license": "GPL-3.0",
+	"dependencies": {
+		"co-request": "1.0.0",
+		"koa": "1.2.0"
+	}
+}
